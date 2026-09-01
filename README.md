@@ -21,3 +21,19 @@
 
 **Issues Faced:**
 - Faced some IntelliJ project/source-folder configuration issues while setting up the Java files.
+
+## Session 4 – Arrays
+
+### Today's Work
+- Completed the class problems based on Arrays.
+- Completed the assignment problems based on Arrays.
+- Practiced creating, accessing, and manipulating arrays in Java.
+- Used loops and array operations to solve the given problems.
+- Tested and ran the programs successfully.
+
+### Next Steps
+- Continue with the next session and its assigned problems.
+
+### Issues Faced
+- Faced some IntelliJ project/module configuration issues while setting up the Java files.
+- Resolved the configuration issues and continued with the problems.
