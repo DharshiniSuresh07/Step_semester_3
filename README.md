@@ -13,3 +13,11 @@
 - Faced initial IntelliJ project and source-root configuration issues, which were resolved.
 
 ---
+**Today's Work:**
+- Completed all 5 class problems and 5 assignment problems for Session 1.
+
+**Next Session Plan:**
+- Work on Session 2 problems.
+
+**Issues Faced:**
+- Faced some IntelliJ project/source-folder configuration issues while setting up the Java files.
