@@ -37,3 +37,18 @@
 ### Issues Faced
 - Faced some IntelliJ project/module configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
+## Session 6 – Classes and Objects
+
+### Today's Work
+- Completed the class problems based on Classes and Objects.
+- Completed the assignment problems based on Classes and Objects.
+- Practiced creating classes and objects in Java.
+- Worked with constructors, methods, instance variables, and object creation.
+- Tested and ran the programs successfully.
+
+### Next Steps
+- Continue with the next session and its assigned problems.
+
+### Issues Faced
+- Faced some IntelliJ project/module configuration issues while setting up the Java files.
+- Resolved the configuration issues and continued with the problems.
