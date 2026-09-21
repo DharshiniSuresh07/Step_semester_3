@@ -52,3 +52,19 @@
 ### Issues Faced
 - Faced some IntelliJ project/module configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
+
+## Session 7 – Encapsulation
+
+### Today's Work
+- Completed the class problems based on Encapsulation.
+- Completed the assignment problems based on Encapsulation.
+- Practiced encapsulation using private fields and public getter/setter methods.
+- Worked with data hiding and controlled access to class members.
+- Tested and ran the programs successfully.
+
+### Next Steps
+- Continue with the next session and its assigned problems.
+
+### Issues Faced
+- Faced some IntelliJ project/source root configuration issues while setting up the Java files.
+- Resolved the configuration issues and continued with the problems.
