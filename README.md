@@ -68,3 +68,19 @@
 ### Issues Faced
 - Faced some IntelliJ project/source root configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
+## Session 8 – Inheritance
+
+### Today's Work
+- Completed the class problems based on Inheritance.
+- Completed the assignment problems based on Inheritance.
+- Practiced creating parent and child classes in Java.
+- Worked with method inheritance and code reuse.
+- Practiced extending classes using the `extends` keyword.
+- Tested and ran the programs successfully.
+
+### Next Steps
+- Continue with the next session and its assigned problems.
+
+### Issues Faced
+- Faced some IntelliJ project/source root configuration issues while setting up the Java files.
+- Resolved the configuration issues and continued with the problems.
