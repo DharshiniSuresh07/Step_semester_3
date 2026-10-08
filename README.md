@@ -83,4 +83,20 @@
 
 ### Issues Faced
 - Faced some IntelliJ project/source root configuration issues while setting up the Java files.
+- Resolved the configuration issues and continued with the problems.\
+## Session 9 – Abstraction and Interface
+
+### Today's Work
+- Completed the class problems based on Abstraction and Interface.
+- Completed the assignment problems based on Abstraction and Interface.
+- Practiced using abstract classes and abstract methods in Java.
+- Worked with interfaces and implemented interface methods.
+- Practiced achieving abstraction and defining common behavior through interfaces.
+- Tested and ran the programs successfully.
+
+### Next Steps
+- Continue with the next session and its assigned problems.
+
+### Issues Faced
+- Faced some IntelliJ project/source root configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
