@@ -1,0 +1,19 @@
+package Strings.class_problems;
+import java.util.*;
+public class VowelConsonantCounter{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        String s=sc.next().toLowerCase();
+        int vowels=0,consonants=0;
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            if("aeiou".indexOf(ch)!=-1)
+                vowels++;
+            else
+                consonants++;
+        }
+        System.out.println("Vowels: "+vowels);
+        System.out.println("Consonants: "+consonants);
+        sc.close();
+    }
+}
