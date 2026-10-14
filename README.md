@@ -1,4 +1,5 @@
 # Step_semester_3
+
 ## Date: 23-08-2026
 **Today's Work:**
 - Completed Session 1 OOP class problems and assignment problems.
@@ -29,12 +30,21 @@
 - Completed the assignment problems based on Arrays.
 - Practiced creating, accessing, and manipulating arrays in Java.
 - Used loops and array operations to solve the given problems.
+
+## Session 10 – Strings
+
+### Today's Work
+- Completed the class problems based on Strings.
+- Completed the assignment problems based on Strings.
+- Practiced string manipulation and common string operations in Java.
+- Worked on reversing strings, counting vowels and consonants, and processing numeric and text data.
 - Tested and ran the programs successfully.
 
 ### Next Steps
 - Continue with the next session and its assigned problems.
 
 ### Issues Faced
+
 - Faced some IntelliJ project/module configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
 ## Session 6 – Classes and Objects
@@ -100,3 +110,7 @@
 ### Issues Faced
 - Faced some IntelliJ project/source root configuration issues while setting up the Java files.
 - Resolved the configuration issues and continued with the problems.
+
+- Realized that the Strings directory was missing and organized the class and assignment problems under the `Strings` directory.
+- Verified the project structure before committing the code.
+
