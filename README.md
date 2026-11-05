@@ -114,3 +114,9 @@
 - Realized that the Strings directory was missing and organized the class and assignment problems under the `Strings` directory.
 - Verified the project structure before committing the code.
 
+### Session 11 – HashSet and HashMap
+
+- Completed 10 assignment problems.
+- Completed 5 class problems.
+- Practiced Java collections using `HashSet` and `HashMap`.
+- Implemented problems involving storing, organizing, and managing data using collections.
