@@ -120,3 +120,20 @@
 - Completed 5 class problems.
 - Practiced Java collections using `HashSet` and `HashMap`.
 - Implemented problems involving storing, organizing, and managing data using collections.
+
+## Session 12
+
+### Assignment Problems
+1. CampusStaffSalary
+2. ClassReportCard
+3. HostelElectricityBill
+4. LibraryReturnDesk
+5. PaymentProcessing
+6. WeeklyRainfallAnalysis
+
+### Class Problems
+1. BookCopyFinder
+2. BusRouteStops
+3. CancelBooking
+4. LateComers
+5. PlateStack
